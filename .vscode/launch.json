@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CincleAreaCalculator",
+            "request": "launch",
+            "mainClass": "CincleAreaCalculator",
+            "projectName": "learning-code_e375389a"
+        },
+        {
+            "type": "java",
+            "name": "MathWithFor",
+            "request": "launch",
+            "mainClass": "MathWithFor",
+            "projectName": "learning-code_e375389a"
+        },
+        {
+            "type": "java",
+            "name": "PassWithWhile",
+            "request": "launch",
+            "mainClass": "PassWithWhile",
+            "projectName": "learning-code_e375389a"
+        },
+        {
+            "type": "java",
+            "name": "ShapeAreaCalculator",
+            "request": "launch",
+            "mainClass": "ShapeAreaCalculator",
+            "projectName": "learning-code_e375389a"
+        },
+        {
+            "type": "java",
+            "name": "StatsCalculator",
+            "request": "launch",
+            "mainClass": "StatsCalculator",
+            "projectName": "learning-code_e375389a"
+        },
+        {
+            "type": "java",
+            "name": "StoreInventory",
+            "request": "launch",
+            "mainClass": "StoreInventory",
+            "projectName": "learning-code_e375389a"
+        },
+        {
+            "type": "java",
+            "name": "TaxCalculator",
+            "request": "launch",
+            "mainClass": "TaxCalculator",
+            "projectName": "learning-code_e375389a"
+        },
+        {
+            "type": "java",
+            "name": "WeeklyTemperature",
+            "request": "launch",
+            "mainClass": "WeeklyTemperature",
+            "projectName": "learning-code_e375389a"
+        }
+    ]
+}
