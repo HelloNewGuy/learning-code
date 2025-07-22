@@ -1,4 +1,3 @@
-package src;
 public class MathWithFor {
 
     public static void main(String[] args){
