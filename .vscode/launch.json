@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AutomobileInventoryApp",
+            "request": "launch",
+            "mainClass": "AutomobileInventoryApp",
+            "projectName": "learning-code_e375389a"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
